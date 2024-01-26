@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Event Management System**
 
-- 🌱 I’m currently learning **MongoDB, Express.js, Node.js, React.js**
+- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [dipkathiriya](dipkathiriya)
 
