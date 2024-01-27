@@ -1,6 +1,6 @@
 ![logo](https://github.com/dipkathiriya/dipkathiriya/blob/main/mybanner.png)
 <h1 align="center">Hi 👋, I'm Dip Kathiriya</h1>
-<h3 align="center">A Full-stack developer from India</h3>
+<h3 align="center">A Full-stack (MERN) developer from India</h3>
 
 <img align="right" alt="developing" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
