@@ -1,6 +1,6 @@
 ![logo](mybanner.png)
 <h1 align="center">Hi 👋, I'm Dip Kathiriya</h1>
-<h3 align="center">A Full-stack (MERN) developer from India</h3>
+<h3 align="center">A Back End (Node.js) developer from India</h3>
 
 <img align="right" alt="developing" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Event Management System**
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
+- 🌱 I’m currently learning **MongoDB, Express.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [dipkathiriya](dipkathiriya)
 
-- 💬 Ask me about **Java, PHP, Mysql**
+- 💬 Ask me about **Javascript, Node.js, MongoDB, Mysql**
 
 - 📫 How to reach me **dipkathiriya193@gmail.com**
 
