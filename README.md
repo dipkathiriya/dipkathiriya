@@ -1,4 +1,4 @@
-![logo](https://github.com/dipkathiriya/dipkathiriya/blob/main/mybanner.png)
+![logo](mybanner.png)
 <h1 align="center">Hi 👋, I'm Dip Kathiriya</h1>
 <h3 align="center">A Full-stack (MERN) developer from India</h3>
 
