@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript, Node.js, MongoDB, Mysql**
 
-- 📫 How to reach me **dipkathiriya193@gmail.com**
+- 📫 How to reach me **dip.kathiriya.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
